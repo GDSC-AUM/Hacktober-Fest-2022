@@ -1,4 +1,5 @@
 <h1>Hacktober-Fest-2022</h1>
+<img src="https://raw.githubusercontent.com/GDSC-AUM/Hacktober-Fest-2022/main/192144059-5cd0b329-f238-474b-b475-7385eaa35d05.png" alt="Hacktoberfest2022">
 <h4>Hacktoberfest 2022 is here  🎉 ! Hacktoberfest is an event organised by Digital Ocean for making contribution to Open-Source Community.</h4>
 <h4>You've to submit 4 Pull requests in order to complete hacktoberfest.</h4> 
 
